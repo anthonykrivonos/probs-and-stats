@@ -19,6 +19,8 @@ All chapters follow the Sheldon M. Ross book,
 - [Chapter 6: Distributions of Sampling Statistics](chapter-6.ipynb)
 - [Chapter 7: Parameter Estimation](chapter-7.ipynb)
 - [Chapter 8: Hypothesis Testing](chapter-8.ipynb)
+- [Chapter 9: Linear Regression](chapter-9.ipynb)
+- [Chapter 10: Analysis of Variance](chapter-10.ipynb)
 
 Although it is used for this course, it is **highly recommended** to use
 a different book, as this one assumes the reader has absurdly more
